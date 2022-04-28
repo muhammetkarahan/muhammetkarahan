@@ -1,0 +1,40 @@
+İntegral Konusu Kazanımları
+Bir fonksiyonun belirsiz integralini açıklayarak integral alma kurallarını oluşturur.
+Değişken değiştirme yoluyla integral alma işlemleri yapar.
+Bir fonksiyonun grafiği ile x ekseni arasında kalan sınırlı bölgenin alanını Riemann toplamı yardımıyla yaklaşık olarak hesaplar.
+Bir fonksiyonun belirli ve belirsiz integralleri arasındaki ilişkiyi açıklayarak işlemler yapar.
+Belirli integralin özelliklerini kullanarak işlemler yapar.
+Belirli integral ile alan hesabı yapar.
+İntegral Konu Anlatımı
+İntegral Tanımı
+İntegral, verilen bir f(x) fonksiyonunu türev kabul eden F(x) fonksiyonunun bulunmasıdır. Bulunan bu F(x) fonksiyonuna f(x) fonksiyonunun integrali denir. İntegral, Latince toplam (summa) kelimesinin baş harfi olan s harfinin değişik bir biçimi olan  “∫ “ işareti ile gösterilir. Bu işaret sonsuz toplamı temsil eder.
+
+F(x) = ∫f(x) + c
+Burada c, sabit bir sayıyı gösterir.
+Burada dx ise integrasyon değişkeninin x olduğunu ifade eder.
+
+İntegral Günlük Hayatta Ne İşimize Yarar?
+Tek katlı integral belirli sınırlar arasındaki “uzunluğu” temsil eder. 
+İki katlı integral belirli sınırlar içerisindeki “alanı” temsil eder
+Üç katlı integral belirli sınırlar arasındaki “hacmi” temsil eder.  
+Dolayısıyla integral mühendislik için çok önemlidir.
+Araçlarda dinlediğimiz radyo dinletisi yayın araçları integral bilgisiyle sağlanır.
+Gemilerin tabanındaki eğrinin uzunluğunu, taban hacmini veya taban alanını bulmak için integral kullanırız.
+Tüm düz ve eğri şekillerin alanını integral ile hatasız bir şekilde bulabiliriz.
+Türev ve İntegral Farkı Nedir?
+Türev, bir şeyin bir diğer şeye göre değişim miktardır. Yani türev, değişimi ölçmek için kullanılır.
+İntegral, belli bir aralıktaki toplam değişimi ya da biriken değişim miktarını ifade etmek için kullanılır.
+Kalkülüsün temel teoremine göre: İntegral ve türev birbirlerinin tersidirler. 
+Bir fonksiyonun türevinin integrali, fonksiyonun kendisine eşittir.
+SAMPLE QUESTION
+∫2dx kaçtır?
+
+SAMPLE ANSWER
+İntegral alırken türevin tersi olduğunu hatırlarsak bu sorumuzun doğru cevabı 2x + c olacaktır. c sabitini yazmayı unutmamalıyız.
+
+  
+SAMPLE QUESTION
+∫√5dx integralinin çözümü nedir?
+
+SAMPLE ANSWER
+Bu integralimizin sonucu da √5x + c çıkacaktır.
